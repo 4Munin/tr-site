@@ -1,0 +1,9 @@
+body {
+    font-family: "Roboto", sans-serif; /* Roboto als Standard font, fallback sans-serif*/
+    color: #333; /* dark grey */
+}
+
+img {
+    max-width: 100%; /* passe alle Bilder auf die Breite des Browserfensters an */
+    height: auto;    /* behalte die Proportionen der Bilder*/
+}
